@@ -6,8 +6,9 @@ An automated CV/resume screening and evaluation system built with n8n workflow a
 
 The Resume Shortlisting AI-Agent is an intelligent workflow that automatically processes job applications, evaluates candidate resumes against job requirements, and categorizes them based on qualification match. This solution eliminates the manual work of initial resume screening while maintaining consistent evaluation standards.
 
-![N8N Workflow](<Screenshot 2025-05-14 141851.png>)
-N8N Workflow
+![n8n Workflow](https://github.com/user-attachments/assets/dc02d020-b616-44ef-9574-8cbf9d60e42d)
+
+**N8N Workflow**
 
 ## 🎯 Key Features
 
@@ -64,8 +65,8 @@ N8N Workflow
   - Keep-in-View (KIV)
   - Rejected
 
+![Google Drive Directory Structure](https://github.com/user-attachments/assets/c3cd5131-2028-48b9-8a5f-675cd733b670)
 
-![alt text](image.png)
 **Google Drive Directory Structure**
 
 ## 🚀 Installation & Setup
